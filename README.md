@@ -1,7 +1,9 @@
-fc
+# cryptool
+
+cryptool
 ==
 
-FC stands for fast-compiling c++ library and provides a set of utility libraries useful
+cryptool stands for fast-compiling c++ library and provides a set of utility libraries useful
 for the development of asynchronous libraries.  Some of the highlights include:
 
  - Cooperative Multi-Tasking Library with support for Futures, mutexes, signals.
